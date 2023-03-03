@@ -1,6 +1,6 @@
 # Why Do the Rich Save So Much?
 
-[html](https://llorracc.github.io/WhyDoTheRich}
+[html](https://llorracc.github.io/WhyDoTheRich)
 
 [pdf](https://github.com/llorracc/WhyDoTheRich/blob/main/Why.pdf)
 
