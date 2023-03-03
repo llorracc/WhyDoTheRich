@@ -1,0 +1,46 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: WhyDoTheRich
+message: >-
+  LaTeX code and software tools for the paper "Why Do the
+  Rich Save So Much?"
+type: software
+authors:
+  - given-names: 'Christopher '
+    name-particle: D
+    family-names: Carroll
+    email: ccarroll@llorracc.org
+    affiliation: Johns Hopkins University
+    orcid: 'https://orcid.org/0000-0003-3732-9312'
+identifiers:
+  - type: url
+    value: 'https://llorracc.github.io/WhyDoTheRich'
+    description: Repo with LaTeX and software
+repository-code: >-
+  https://github.com/llorracc/WhyDoTheRich/tree/main/Resources
+url: 'https://llorracc.github.io/WhyDoTheRich'
+abstract: >-
+  This paper considers several alternative explanations for
+  the fact that households with higher levels of lifetime
+  income (‘the rich’) have higher lifetime saving rates
+  (Dynan, Skinner, and Zeldes 1996; Lillard and Karoly
+  1997). The paper argues that the saving behavior of the
+  richest households cannot be explained by models in which
+  the only purpose of wealth accumulation is to ﬁnance
+  future consumption, either their own or that of heirs. The
+  paper concludes that the simplest model that explains the
+  relevant facts is one in which either consumers regard the
+  accumulation of wealth as an end in itself, or unspent
+  wealth yields a ﬂow of services (such as power or social
+  status) which have the same practical eﬀect on behavior as
+  if wealth were intrinsically desirable.
+keywords:
+  - saving
+  - consumption
+  - Life Cycle model
+  - bequests
+  - capitalist spirit
+license: Apache-2.0
+date-released: 2021-08-11
