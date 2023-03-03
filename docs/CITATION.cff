@@ -8,8 +8,7 @@ message: >-
   Rich Save So Much?"
 type: software
 authors:
-  - given-names: 'Christopher '
-    name-particle: D
+  - given-names: 'Christopher D'
     family-names: Carroll
     email: ccarroll@llorracc.org
     affiliation: Johns Hopkins University
